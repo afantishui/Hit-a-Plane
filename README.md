@@ -31,6 +31,6 @@ part2：<br />
 BUTTON_ON为True是绘制按钮<br />
 结束游戏时把BUTTON_ON = False<br />
 
-效果图：
-![Image text](https://github.com/afantishui/Hit-a-Plane/blob/master/playing.png)
-![Image text](https://github.com/afantishui/Hit-a-Plane/blob/master/gameover.png)
+效果图：<br />
+![Image text](https://github.com/afantishui/Hit-a-Plane/blob/master/playing.png)<br />
+![Image text](https://github.com/afantishui/Hit-a-Plane/blob/master/gameover.png)<br />
