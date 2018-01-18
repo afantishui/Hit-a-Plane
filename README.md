@@ -1,13 +1,13 @@
 # Hit-a-Plane
-#bullet.py 子弹
-#enmey.py 敌人
-# myplane.py 飞机
-#supply.py 补及
+bullet.py 子弹  <br />
+enmey.py 敌人  <br />
+myplane.py 飞机<br />
+supply.py 补及<br />
 
-part1思路：
-写main()
-1.先导入需要用到的pygame、sys、traceback模块
- from pygame.locals import * 这个是导入常用函数与常量。
+part1思路：<br />
+写main()<br />
+1.先导入需要用到的pygame、sys、traceback模块<br />
+ from pygame.locals import * 这个是导入常用函数与常量。<br />
 2.初始化pygame，pygame.mixer
 3.设置分辨率与背景图
 4.导入音效资源
